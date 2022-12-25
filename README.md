@@ -1,5 +1,10 @@
 # chamawel.github.io
-#Si vous voyez ça, j'ai surement apliquer des changement au site!! patienter!
+#SITE DISPONIBLLE:
+#
+# chamawel.github.io/site-1
+# .... à venir
+#
+#
 #
 #
 
