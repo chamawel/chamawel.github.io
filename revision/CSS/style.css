@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(240, 233, 216);
+    font-size:120%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+header{
+    font-size: 100%;
+    text-align: center;
+    text-decoration: underline;
+    background-image: linear-gradient(to bottom, rgba(243, 99, 243, 0.5), rgba(0,0,128,0.5));
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    padding-top: 2%;
+    padding-bottom:10% ;
+
+}   
+
+
+
+section{
+   
+    background-color: rgb(246, 221, 189);
+    
+    text-align: center;
+    list-style-position: inside;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    padding-top: 0.01%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+
+}
+
+section h3{
+    font-size: 150%;
+    text-decoration: underline;
+
+
+} 
+
+
+
+/* BARRE NAVIGATION: */
+
+.Nav{
+    list-style-type: none;
+    margin:0%;
+    padding:0%;
+    overflow:hidden;
+    background-color: rgb(116, 143, 167);
+
+}
+
+.Nav li{
+    float:left;
+
+
+}
+
+.Nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 23px ;
+    text-decoration: none;
+
+
+}
+
+
+.Nav li a:hover{
+    background-color: rgb(143, 175, 203) ;
+    
+
+}
+
+.active{
+    background-color:rgb(91, 112, 130) ;
+
+}
