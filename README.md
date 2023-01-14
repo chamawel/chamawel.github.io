@@ -1,9 +1,9 @@
-# chamawel.github.io
-#Page vide... essayer autre chose!
+#   My Web sites:  
 #
-# chamawel.github.io/site-1
-# .... à venir
 #
+# https://chamawel.github.io/site-1
+#
+# https://chamawel.github.io/revision/
 #
 #
 #
